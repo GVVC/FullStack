@@ -29,5 +29,5 @@ app.post("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log("server started successfull1");
+  console.log("server started successfull!");
 });
