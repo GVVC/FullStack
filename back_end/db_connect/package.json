@@ -1,0 +1,14 @@
+{
+  "name": "db_connect",
+  "version": "1.0.0",
+  "description": "first time db connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vijay",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
